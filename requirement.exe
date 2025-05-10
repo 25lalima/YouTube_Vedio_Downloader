@@ -1,0 +1,4 @@
+install pip
+install pytube
+install tkinter
+run by using "filename.py"
